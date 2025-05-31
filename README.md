@@ -11,8 +11,6 @@ Tech Stack:
 * YouTube Data API v3
 * Google Cloud Storage
 * BigQuery
-* google-cloud-storage
-* google-cloud-bigquery
 * python-dotenv.
 
 References:
